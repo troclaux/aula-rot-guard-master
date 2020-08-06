@@ -1,0 +1,20 @@
+* {
+  font-family: Roboto Condensed Regular;
+}
+
+ion-card {
+  margin: 0;
+  padding: 1vh;
+  height: inherit;
+  width: 60vw;
+  height: 50vh;
+  padding: 2vh;
+  --background: var(--ion-color-secondary); //creme
+  color: black;
+  font-size: 1em;
+  }
+
+ion-label {
+  font-family: Roboto Condensed Bold;
+  font-size: 1.4em;
+}
